@@ -1,0 +1,1 @@
+The Nmap Port Scanner is a tool made with Python that uses the Nmap library to check and secure networks. It scans a given IP address and shows detailed information about open ports and their conditions. This tool is especially helpful for system administrators and network security professionals to find possible weaknesses and strengthen their network setups.
